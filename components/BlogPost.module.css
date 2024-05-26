@@ -1,0 +1,23 @@
+.article {
+  margin-bottom: 2rem;
+}
+
+.article h1 {
+  margin-bottom: 0.5rem;
+}
+
+.article p {
+  color: #666;
+}
+
+.article div {
+  margin-top: 1rem;
+}
+
+.backButton {
+  text-decoration: none;
+}
+
+.backButton:hover {
+  text-decoration: none;
+}
